@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+  }
+  h2 {
+    margin: 10;
+    text-align: center;
+    background-color: #00e66f;
+  }
+  h3 {
+    margin: 10;
+  }
+  main {
+    padding: 40px;
+    text-align: center;
+  }
+  p {
+    margin: 20px 0;
+  }
+  .cta-button {
+    background-color: #ff8800;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
